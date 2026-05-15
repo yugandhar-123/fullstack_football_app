@@ -1,0 +1,38 @@
+.Mui-selected {
+    background-color:#2ab0ef1d !important ;
+    /* background-color:blue !important ; */
+
+}
+.TopBar{
+    display:flex;
+    background-color:rgb(1,1,75);
+    color:white;
+    align-items:center;
+    margin-bottom:10px;
+    padding:10px;
+
+}
+.FormBox{
+    width:100%;
+    /* min-height: 100%; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+    
+}
+
+.TextBox{
+    width:100%;
+    /* min-height: 100%; */
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+    
+}
+.FormArea{
+    width: 33%;
+    padding: 15px;
+    /* margin: 20px; */
+}

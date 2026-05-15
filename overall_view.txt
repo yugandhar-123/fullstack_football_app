@@ -1,0 +1,16 @@
+1.setting up the python django backend
+2.setting up & connection the react js frontend
+3.page navigation and navigation menu
+4.database models
+5.full CRUD process(backend+frontend)
+6.handling select fields(backend+frontend)
+handling mutliselect fields(backend+fronted)
+
+
+
+tutorial 7:
+install Axios
+create mechanism that can make requests to django APIs
+Fetch backend data for Countries
+Fetch backend data for Characteristics and Leagues
+Test if it all works as expected
