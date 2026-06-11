@@ -8,7 +8,7 @@ handling mutliselect fields(backend+fronted)
 
 
 
-tutorial 7:
+
 install Axios
 create mechanism that can make requests to django APIs
 Fetch backend data for Countries
